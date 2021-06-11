@@ -1,0 +1,33 @@
+body{
+    font-family: 'open Sans' , sans-serif;
+    background-color: rgb(49, 102, 146);
+    width:500px;
+    height: 500px;
+}
+.abc{
+    text-align: center;
+    background-image: url('imagecal.jpg');
+    width: 700px;
+    height: 550px;
+    margin: 20px auto;
+    margin-left: 350px;
+    margin-top: 30px;
+}
+table{
+    margin: auto;
+}
+input{
+    font-size: 34px;
+    width: auto;
+    border:5px solid #242424;
+    border-radius: 21px;
+
+
+}
+button{
+    font-size: 40px;
+    background: red;
+    width:102px;
+    height:58px;
+    border-radius: 20px;
+}
